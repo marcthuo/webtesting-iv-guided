@@ -31,10 +31,5 @@ describe('GET', () => {
 
         expect(res.body).toEqual({ api: 'up' })
     })
-
 })
-
-
-
-
 })
